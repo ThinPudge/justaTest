@@ -5,7 +5,3 @@ int main()
     return 0;
 }
 
-void fuc()
-{
-    print("ok");
-}
