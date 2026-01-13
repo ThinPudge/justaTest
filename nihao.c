@@ -6,3 +6,9 @@ int main()
 
     return 0;
 }
+
+
+void fuc2()
+{
+    return 0;
+}
